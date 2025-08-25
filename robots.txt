@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /super-secret-directory/
+Disallow: /super-secret-directory/hidden.html
+
